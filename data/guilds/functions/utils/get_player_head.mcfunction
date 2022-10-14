@@ -1,0 +1,1 @@
+loot replace entity @s weapon.mainhand loot guilds:player_head
